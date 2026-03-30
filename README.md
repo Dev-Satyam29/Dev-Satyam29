@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
+<h1 align="center">🌐 Satyam Gupta | 404 Limits Not Found</h1>
 <h3 align="center">🚀 AI Developer | 💻 Full Stack Builder | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;HELLO+_+WORLD!;Full+Stack+Engineer;Building+CorrectIQ;100%25+Consistency+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;HELLO+_+WORLD!;Full+Stack+Engineer;lambda+x+:+"+Turning+ideas+into+reality";100%25+Consistency+Mindset" />
 </p>
 
 <p align="center">
