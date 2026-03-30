@@ -96,8 +96,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Satyam29&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Satyam29&show_icons=true&theme=default&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Satyam29&layout=compact&theme=default&hide_border=true" />
+</p>
+
 
 ---
 
