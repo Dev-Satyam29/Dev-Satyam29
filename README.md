@@ -93,14 +93,18 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Satyam29&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Satyam29&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Satyam29&layout=compact&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Dev-Satyam29&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Satyam29&layout=compact&theme=tokyonight" />
 </p>
 
 
