@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Developer | 💻 Full Stack Builder | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Hackathon+Builder;Full+Stack+Engineer;Building+CorrectIQ" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Hackathon+Winner;Full+Stack+Engineer;Building+CorrectIQ;100%25+Consistency+Mindset" />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 ## 🚀 About Me
 
 * 🎓 CSE (AIML) Student at LNCTE Bhopal (CGPA: 8.28)
-* 🤖 Passionate about Artificial Intelligence & Scalable Systems
-* 🧠 Solved 100+ problems on LeetCode
-* 🏆 Active in Hackathons & Innovation
+* 🤖 Passionate about AI, Backend Systems & Real-World Problem Solving
+* 🧠 Solved **100+ problems on LeetCode**
+* 🏆 Active in Hackathons & Innovation Challenges
 
 ---
 
@@ -32,17 +32,17 @@
 ### 🛡️ VoiceShield AI
 
 * 🎙️ Live speech-to-text + emotion detection
-* ⚠️ Fraud intent analysis
-* 📊 Dynamic risk scoring
+* ⚠️ Fraud intent analysis with AI
+* 📊 Dynamic risk scoring system
 * 👨‍👩‍👦 Elder safety alert system
 
-**Tech:** Next.js • TypeScript • Node.js • Firebase • Gemini AI
+**Tech Stack:** Next.js • TypeScript • Node.js • Firebase • Gemini AI
 
 ---
 
 ### 🌍 ExploreJH
 
-* 🗺️ AI-based tourism recommendations
+* 🗺️ Smart tourism recommendation system
 * 📍 Google Maps integration
 * 🛍️ Digital marketplace for artisans
 
@@ -60,12 +60,9 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
 
-### ⚙️ Backend
+### ⚙️ Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-
-### 🔥 Database
-
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
 
@@ -79,14 +76,14 @@
 ## 🏆 Achievements
 
 * 🥇 Winner – Smart India Hackathon (Internal Round)
-* 🚀 Built AI systems in multiple hackathons
+* 🚀 Built AI systems in multiple hackathons (GDG, ByteQuest, MITS)
 * 💡 Semi-finalist – Hack Orbit 2025
 * ☁️ Oracle OCI Generative AI Certified
 * 🔐 Cisco Cybersecurity & IoT Certified
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Satyam29&show_icons=true&theme=tokyonight" />
@@ -99,6 +96,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Satyam29&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🧩 Problem Solving
+
+* 💻 Active on Codeforces
+* 🧠 100+ problems solved on LeetCode
+* 📈 Strong focus on DSA & Competitive Programming
 
 ---
 
@@ -117,7 +122,7 @@
 
 ## ⚡ Fun Fact
 
-💡 I build AI systems that solve real-world problems.
+💡 I love building AI systems that solve real-world problems and make life easier.
 
 ---
 
