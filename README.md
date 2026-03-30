@@ -24,12 +24,6 @@
 
 ---
 
-## ⚡ What I'm Building
-
-* 🔥 **CorrectIQ** – AI-powered assignment evaluation system
-* 🛡️ **VoiceShield AI** – Real-time scam call detection system
-
----
 
 ## 🧠 Featured Projects
 
