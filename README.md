@@ -17,6 +17,10 @@
 * 🤖 Passionate about AI, Backend Systems & Real-World Problem Solving
   ## 🧠 LeetCode Dashboard
 
+  ## 💡 Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dev_Satyam?theme=dark&font=Karma&ext=contest" />
 </p>
