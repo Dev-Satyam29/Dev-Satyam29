@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Developer | 💻 Full Stack Builder | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;HELLO_WORLD!;Full+Stack+Engineer;Think.Code.Repeat";100%25+Consistency+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;HELLO_WORLD!;Full+Stack+Engineer;Think.Code.Repeat;Consistency+Mindset" />
 </p>
 
 <p align="center">
@@ -15,19 +15,23 @@
 
 * 🎓 CSE (AIML) Student at LNCTE Bhopal (CGPA: 8.28)
 * 🤖 Passionate about AI, Backend Systems & Real-World Problem Solving
-  ## 🧠 LeetCode Dashboard
-
-  ## 💡 Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dev_Satyam?theme=dark&font=Karma&ext=contest" />
-</p>
 * 🏆 Active in Hackathons & Innovation Challenges
 
 ---
 
+## 🧠 LeetCode Dashboard
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dev_Satyam?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
+
+## 💡 Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
 
 ## 🧠 Featured Projects
 
@@ -40,6 +44,7 @@
 
 **Tech Stack:** Next.js • TypeScript • Node.js • Firebase • Gemini AI
 
+🔗 https://voiceshield-ai.vercel.app/
 
 ---
 
@@ -48,6 +53,8 @@
 * 🗺️ Smart tourism recommendation system
 * 📍 Google Maps integration
 * 🛍️ Digital marketplace for artisans
+
+🔗 https://explorejh.vercel.app/
 
 ---
 
@@ -79,7 +86,7 @@
 ## 🏆 Achievements
 
 * 🥇 Winner – Smart India Hackathon (Internal Round)
-* 🚀 Built AI systems in multiple hackathons (GDG, ByteQuest, MITS)
+* 🚀 Built AI systems in multiple hackathons
 * 💡 Semi-finalist – Hack Orbit 2025
 * ☁️ Oracle OCI Generative AI Certified
 * 🔐 Cisco Cybersecurity & IoT Certified
@@ -92,11 +99,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Satyam29&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-Satyam29&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-
+---
 
 ## 🧩 Problem Solving
 
@@ -117,6 +120,7 @@
   </a>
 </p>
 
+---
 
 ## ⚡ Fun Fact
 
