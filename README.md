@@ -15,7 +15,11 @@
 
 * 🎓 CSE (AIML) Student at LNCTE Bhopal (CGPA: 8.28)
 * 🤖 Passionate about AI, Backend Systems & Real-World Problem Solving
-* 🧠 Solved **100+ problems on LeetCode**
+  ## 🧠 LeetCode Dashboard
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dev_Satyam?theme=dark&font=Karma&ext=contest" />
+</p>
 * 🏆 Active in Hackathons & Innovation Challenges
 
 ---
