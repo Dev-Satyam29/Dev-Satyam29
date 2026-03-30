@@ -41,6 +41,7 @@
 * 👨‍👩‍👦 Elder safety alert system
 
 **Tech Stack:** Next.js • TypeScript • Node.js • Firebase • Gemini AI
+![AI](https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge)
 
 ---
 
