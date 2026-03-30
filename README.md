@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Developer | 💻 Full Stack Builder | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;HELLO+_+WORLD!;Full+Stack+Engineer;Think.Code.Repeat";100%25+Consistency+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;HELLO_WORLD!;Full+Stack+Engineer;Think.Code.Repeat";100%25+Consistency+Mindset" />
 </p>
 
 <p align="center">
