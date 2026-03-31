@@ -113,7 +113,7 @@
 ## 🧩 Problem Solving
 
 * 💻 Active on Codeforces
-* 🧠 190+ problems solved on LeetCode
+* 🧠 200+ problems solved on LeetCode
 * 📈 Strong focus on DSA & Competitive Programming
 
 ---
