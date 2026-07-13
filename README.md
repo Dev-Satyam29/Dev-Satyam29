@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-* 🎓 CSE (AIML) Student at LNCTE Bhopal (CGPA: 8.28)
+* 🎓 CSE (AIML) Student at LNCTE Bhopal (CGPA: 8.44)
 * 🤖 Passionate about AI, Backend Systems & Real-World Problem Solving
 * 🏆 Active in Hackathons & Innovation Challenges
 
